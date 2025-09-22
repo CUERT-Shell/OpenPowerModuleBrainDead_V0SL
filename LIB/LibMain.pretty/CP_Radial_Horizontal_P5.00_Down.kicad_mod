@@ -1,0 +1,144 @@
+(footprint "CP_Radial_Horizontal_P5.00_Down"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c1e62fd5-3df3-4635-8f52-1676aff57cd8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "CP_Radial_Horizontal_P5.00_Down"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0a53c663-58ad-4c51-abb2-fa51d07135ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2134ec6c-8c83-46ea-9675-d667c328ff08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5566882-42f4-41ed-bb54-44fe9540939e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.525 0.975)
+		(end -2.55 -0.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5f220c68-270f-40ce-b04a-966671191ebc")
+	)
+	(fp_line
+		(start 2.45 0.975)
+		(end 2.45 -0.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "998b81bd-1aed-473a-aa1a-8e41c21f73f2")
+	)
+	(fp_rect
+		(start -6.5 0.975)
+		(end 6 20.375)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "73395f00-7835-4662-a685-d35c9825dcc7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.1 1.125 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b17fe87a-924f-48e2-89f6-228d942a644a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ce520a28-52aa-444e-ad6d-166c21136183")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -2.575 -1.35)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "8ea369fa-273d-4f8c-acff-788435fc646d")
+	)
+	(pad "2" thru_hole roundrect
+		(at 2.425 -1.35)
+		(size 1.8 1.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "315f5d2e-d0fd-45e7-852e-b8c0244e6e46")
+	)
+	(embedded_fonts no)
+	(model "E:/Shared_data/OpenPowerModuleBrainDead_V0SL/LIB/cap_el_horizontal_d12.5_h20_pitch5_w0.6.stp"
+		(offset
+			(xyz 0 1.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
