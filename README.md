@@ -5,8 +5,8 @@ You can view on https://kicanvas.org (for non kicad users)
 
 
 ## Power Module Board
-![](Doc\PowerModuleTopView.png)
-![](Doc\PowerModuleBottomView.png)
+![](Doc/PowerModuleTopView.png)
+![](Doc/PowerModuleBottomView.png)
 
 Minimal BLDC drive hardware
 Minimal Fabrication requirements , Single Layer PCB
@@ -17,8 +17,8 @@ Minimal Fabrication requirements , Single Layer PCB
 Requires External 12V supply in addition to DC bus voltage
 
 ## Power Module Interface Board
-![](Doc\PowerModuleInterfaceTopView.png)
-![](Doc\PowerModuleInterfaceBottomView.png)
+![](Doc/PowerModuleInterfaceTopView.png)
+![](Doc/PowerModuleInterfaceBottomView.png)
 
 * IDC-2x15 Connector to be interfaced with a controller/MCU
 * 12V-->5V buck converter , 3.3V LDO
