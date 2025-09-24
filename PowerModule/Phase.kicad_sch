@@ -1046,7 +1046,7 @@
 		(uuid "27b92b7e-bdf9-49b4-abc3-e98b8e64879d")
 	)
 	(junction
-		(at 162.56 76.2)
+		(at 173.99 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a082181-aeed-4c4f-8b00-65ae2ed492b8")
@@ -1082,7 +1082,7 @@
 		(uuid "5ddbebfe-ae18-48ab-96f1-76fdbc0591bd")
 	)
 	(junction
-		(at 162.56 90.17)
+		(at 173.99 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "621fe999-434c-4814-86b0-9421dd0324f1")
@@ -1098,6 +1098,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65fe4b36-b4f5-4c5a-900d-f42761226c8e")
+	)
+	(junction
+		(at 165.1 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "690e7591-35c7-40fc-839b-c71080c974ed")
 	)
 	(junction
 		(at 156.21 49.53)
@@ -1134,6 +1140,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "926cc1cd-630c-4ee7-9a5d-964e3b42ec83")
+	)
+	(junction
+		(at 165.1 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95256b2f-bdef-414e-96ff-f1586bf708b1")
 	)
 	(junction
 		(at 124.46 62.23)
@@ -1221,7 +1233,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 116.84) (xy 162.56 116.84)
+			(xy 156.21 116.84) (xy 165.1 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1251,7 +1263,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 76.2) (xy 162.56 78.74)
+			(xy 173.99 76.2) (xy 173.99 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1261,7 +1273,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 76.2) (xy 162.56 76.2)
+			(xy 181.61 76.2) (xy 173.99 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1321,6 +1333,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 49.53) (xy 173.99 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26303ba1-9c98-4d9e-9351-0568f6297f39")
+	)
+	(wire
+		(pts
 			(xy 116.84 62.23) (xy 124.46 62.23)
 		)
 		(stroke
@@ -1331,7 +1353,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 49.53) (xy 162.56 49.53)
+			(xy 156.21 49.53) (xy 165.1 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1371,7 +1393,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 86.36) (xy 170.18 90.17)
+			(xy 181.61 86.36) (xy 181.61 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1451,7 +1473,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 90.17) (xy 162.56 90.17)
+			(xy 181.61 90.17) (xy 173.99 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1468,6 +1490,26 @@
 			(type default)
 		)
 		(uuid "6a49ddb9-61eb-48fd-a7f8-cea924f30727")
+	)
+	(wire
+		(pts
+			(xy 165.1 86.36) (xy 165.1 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b9b1aa1-ac49-4562-a383-01f11dd401be")
+	)
+	(wire
+		(pts
+			(xy 165.1 49.53) (xy 165.1 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7168c7d8-6229-441d-acb4-ff7b2f759326")
 	)
 	(wire
 		(pts
@@ -1501,7 +1543,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 90.17) (xy 162.56 116.84)
+			(xy 173.99 90.17) (xy 173.99 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1601,7 +1643,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 76.2) (xy 170.18 78.74)
+			(xy 181.61 76.2) (xy 181.61 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1701,7 +1743,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 86.36) (xy 162.56 90.17)
+			(xy 173.99 86.36) (xy 173.99 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1841,7 +1883,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 76.2) (xy 162.56 49.53)
+			(xy 173.99 76.2) (xy 173.99 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1898,6 +1940,16 @@
 			(type default)
 		)
 		(uuid "f8bae41c-a0a4-445a-ac89-fd665c0c19d9")
+	)
+	(wire
+		(pts
+			(xy 165.1 116.84) (xy 173.99 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc790b85-a114-4107-b172-1060d221cd02")
 	)
 	(wire
 		(pts
@@ -1980,7 +2032,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W5.1mm_P10.00mm_MKT"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 139.3952 62.23 0)
 			(effects
 				(font
@@ -2389,7 +2441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3"
+		(property "Footprint" "Capacitor_THT:C_Rect_L9.0mm_W5.1mm_P7.50mm_MKT"
 			(at 157.1752 86.36 0)
 			(effects
 				(font
@@ -2740,7 +2792,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 162.56 82.55 0)
+		(at 173.99 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2748,7 +2800,7 @@
 		(dnp no)
 		(uuid "8ae03809-fc6f-402a-b678-10f3bdb0b31f")
 		(property "Reference" "C13"
-			(at 164.338 78.74 0)
+			(at 175.768 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2757,7 +2809,7 @@
 			)
 		)
 		(property "Value" "220uF"
-			(at 160.782 85.09 0)
+			(at 172.212 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2766,7 +2818,7 @@
 			)
 		)
 		(property "Footprint" "LibMain:CP_Radial_Horizontal_P5.00_Up"
-			(at 163.5252 86.36 0)
+			(at 174.9552 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +2827,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 82.55 0)
+			(at 173.99 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2784,7 +2836,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 162.56 82.55 0)
+			(at 173.99 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3298,7 +3350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W5.1mm_P10.00mm_MKT"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 139.3952 113.03 0)
 			(effects
 				(font
@@ -3426,16 +3478,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 170.18 82.55 0)
+		(lib_id "Device:C")
+		(at 165.1 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e9957d8a-fadd-418e-a1e2-bf4c59c105ca")
-		(property "Reference" "C14"
-			(at 171.196 80.264 0)
+		(fields_autoplaced yes)
+		(uuid "ce8dbcd3-601b-48fe-adea-8095ed1f59e6")
+		(property "Reference" "C29"
+			(at 168.91 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3443,8 +3496,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220uF"
-			(at 173.228 82.804 0)
+		(property "Value" "10nF"
+			(at 168.91 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3452,8 +3505,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LibMain:CP_Radial_Horizontal_P5.00_Down"
-			(at 171.1452 86.36 0)
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+			(at 166.0652 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,7 +3515,84 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 82.55 0)
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 165.1 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b1abad2-4a26-44c1-b4cb-14d23c875443")
+		)
+		(pin "1"
+			(uuid "c8baa846-b442-48b1-b6b2-d9562ae24218")
+		)
+		(instances
+			(project "PowerModule"
+				(path "/377d7bd9-5797-449c-aa80-62b80d7b56d8/14699ebe-f2d2-4155-aac0-4b159f9f7227"
+					(reference "C30")
+					(unit 1)
+				)
+				(path "/377d7bd9-5797-449c-aa80-62b80d7b56d8/4ca7d756-9094-484b-8a85-0e4c6bfcadf0"
+					(reference "C31")
+					(unit 1)
+				)
+				(path "/377d7bd9-5797-449c-aa80-62b80d7b56d8/8b6e91c1-c327-4148-83f9-0542a0b05d28"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 181.61 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e9957d8a-fadd-418e-a1e2-bf4c59c105ca")
+		(property "Reference" "C14"
+			(at 182.626 80.264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220uF"
+			(at 184.658 82.804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LibMain:CP_Radial_Horizontal_P5.00_Down"
+			(at 182.5752 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3471,7 +3601,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 170.18 82.55 0)
+			(at 181.61 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)

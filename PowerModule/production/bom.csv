@@ -1,0 +1,22 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,1206,1,10uF,
+"C10, C11, C17, C18, C24, C25",C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,6,3.3nF,
+"C12, C19, C26",C_Rect_L9.0mm_W5.1mm_P7.50mm_MKT,3,1uF,
+"C13, C20, C27",CP_Radial_Horizontal_P5.00_Up,3,220uF,
+"C14, C21, C28",CP_Radial_Horizontal_P5.00_Down,3,220uF,
+"C15, C16, C22, C23, C8, C9",1206,6,470pF,
+"C2, C4, C6",C_Rect_L9.0mm_W5.1mm_P7.50mm_MKT,3,470nF,
+"C29, C30, C31",C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,3,10nF,
+"C3, C5, C7",1206,3,4.7uF-50V,
+D1,D_SMC-RM10_Universal_Handsoldering,1,D_Schottky,
+"D2, D3",1206,2,LED,
+"D4, D5, D6",D_SMC-RM10_Universal_Handsoldering,3,SS310,
+"DRA1, DRA2",DinRailPCBClip_P15,2,DIN_Rail_Adapter,
+"J1, J2","TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",2,12V_IN,
+"J10, J23, J5, J6, J9",D5mm_WirePad,5,Screw_Terminal_01x01,
+"J11, J12, J13, J14, J15, J16, J17, J18, J19, J20, J21, J22, J3, J4, J7, J8",WirePad_2.5x5,16,Conn_01x01_Pin,
+"Q1, Q2, Q3, Q4, Q5, Q6",TO-220-3_Horizontal_TabUp,6,IRF1407,C33129604
+"R1, R11, R12, R2, R21, R22, R31, R32",1206,8,10k,
+"R10, R19, R20, R29, R30, R9",1206,6,25,
+"R13, R14, R15, R16, R17, R18, R23, R24, R25, R26, R27, R28, R3, R33, R34, R35, R36, R37, R38, R4, R5, R6, R7, R8",1206,24,100,
+"U1, U2, U3",SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,3,IR2184SPBF,C537610

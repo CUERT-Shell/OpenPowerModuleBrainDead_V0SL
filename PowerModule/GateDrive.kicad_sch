@@ -1800,7 +1800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L11.0mm_W5.1mm_P10.00mm_MKT"
+		(property "Footprint" "Capacitor_THT:C_Rect_L9.0mm_W5.1mm_P7.50mm_MKT"
 			(at 100.0252 55.88 0)
 			(effects
 				(font

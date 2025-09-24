@@ -204,7 +204,7 @@
 		(uuid "38103121-0c64-4223-9276-051562cb4656")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/LIB/EasyEDA.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.step"
+	(model "${KIPRJMOD}/../LIB/EasyEDA.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.step"
 		(offset
 			(xyz 0 0 -0)
 		)
